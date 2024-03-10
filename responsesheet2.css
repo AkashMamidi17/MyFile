@@ -1,0 +1,33 @@
+.np {
+    background-color:white;
+    height: 200px;
+    border: 1px solid rgb(159, 154, 154);
+    border-radius: 8px;
+    border-top: 20px solid rgb(96, 33, 134);
+}
+h1 {
+    font-size: 30px;
+}
+html {
+    background-color: rgb(224, 206, 242);
+}
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#n1 {
+    font-size: 30px;
+    color: rgb(133, 126, 126);
+}
+.t {
+    padding: 20px 10px;
+}
+#n1, #n2, #n3, h1, #r, #r2 {
+    padding-left: 20px;
+}
+#n3, #r, #r2 {
+    font-size: 14px;
+}
+.t {
+    align-items: center;
+    justify-content: center;
+}
